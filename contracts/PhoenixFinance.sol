@@ -49,7 +49,7 @@ interface IdentityRegistryInterface {
 }
 
 
-/// @notice The Phoenixgen Finance contract for managing financial accounts such as credit cards, banks and invement accounts on-chain using encryption technology
+/// @notice The Phoenix Finance contract for managing financial accounts such as credit cards, banks and invement accounts on-chain using encryption technology
 /// @author Merunas Grincalaitis <merunasgrincalaitis@gmail.com>
 contract PhoenixFinance {
     struct User {
